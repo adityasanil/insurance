@@ -1,12 +1,8 @@
 {
   "name": "argon-design-system-react",
   "version": "1.0.0",
-  "description": "React version of Argon Design System by Creative Tim",
+  "description": "Insurance website using React and Argon design system",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/creativetimofficial/argon-design-system-react.git"
-  },
   "keywords": [
     "react",
     "reactjs",
@@ -22,11 +18,6 @@
     "argon-design-system-react",
     "design-system-react"
   ],
-  "author": "Creative Tim",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/creativetimofficial/argon-design-system-react/issues"
-  },
   "homepage": "https://master.d1440z6fo9z2q3.amplifyapp.com/",
   "scripts": {
     "start": "react-scripts start",
