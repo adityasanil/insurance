@@ -3,15 +3,15 @@ import React from "react";
 // import classnames from "classnames";
 
 // reactstrap components
-import {
-  Badge,
-  Container,
-  Row,
-  Col,
-  Card,
-  CardBody,
-  CardImg
-} from "reactstrap";
+// import {
+//   Badge,
+//   Container,
+//   Row,
+//   Col,
+//   Card,
+//   CardBody,
+//   CardImg
+// } from "reactstrap";
 
 // core components
 import DemoNavbar from "../components/Navbars/DemoNavbar";

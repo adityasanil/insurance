@@ -1,16 +1,8 @@
 import React from "react";
 import { Container, Col, Row } from "reactstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faWhatsapp,
-  faFacebook,
-  faGoogle
-} from "@fortawesome/free-brands-svg-icons";
-import {
-  faStar,
-  faSmileBeam,
-  faGrinBeam
-} from "@fortawesome/free-solid-svg-icons";
+import { faFacebook, faGoogle } from "@fortawesome/free-brands-svg-icons";
+import { faGrinBeam } from "@fortawesome/free-solid-svg-icons";
 
 const RatingsBar = () => {
   return (
