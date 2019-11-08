@@ -256,17 +256,17 @@ class DemoNavbar extends React.Component {
                         <i className="ni ni-collection d-lg-none mr-1" />
                         <span className="nav-link-inner--text">Blog</span>
                       </DropdownToggle> */}
-                      <DropdownToggle
-                        className="btn-neutral btn-icon"
-                        color="default"
+                      {/* <DropdownToggle
+                        // className="btn-neutral btn-icon"
+                        // color="bg-white"
                         href={null}
-                      >
-                        <i className="ni ni-collection d-lg-none mr-1" />
-                        <span
-                          className="nav-link-inner--text"
-                          id="google_translate_element"
-                        ></span>
-                      </DropdownToggle>
+                      > */}
+                      <i className="ni ni-collection d-lg-none mr-1" />
+                      <span
+                        // className="nav-link-inner--text"
+                        id="google_translate_element"
+                      ></span>
+                      {/* </DropdownToggle> */}
                     </UncontrolledDropdown>
                   </NavItem>
                 </Nav>
