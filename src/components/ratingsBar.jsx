@@ -11,7 +11,7 @@ const RatingsBar = () => {
         <Row className="row-grid align-items-center p-2">
           <Col md="6">
             <div className="d-flex ml-4">
-              <div className="icon icon-md icon-shape bg-white shadow rounded-circle text-warning">
+              <div className="icon icon-lg icon-shape bg-white shadow rounded-circle text-warning">
                 <FontAwesomeIcon icon={faGrinBeam} />
               </div>
               <h5 className="display-5 text-white mt-2 ml-2">

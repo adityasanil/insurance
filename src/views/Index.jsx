@@ -22,6 +22,7 @@ import WorkFromHome from "components/workFromHome";
 import WhatsappBar from "components/whatsappBar";
 import RenewalsSwitch from "components/renewalsSwitch";
 import RatingsBar from "components/ratingsBar";
+import CardsSection from "components/cardsSection";
 // index page sections
 
 class Landing extends React.Component {
@@ -42,6 +43,7 @@ class Landing extends React.Component {
           <WhatsappBar />
           <RenewalsSwitch />
           <RatingsBar />
+          <CardsSection />
         </main>
         <CardsFooter />
       </>
