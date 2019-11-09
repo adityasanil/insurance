@@ -24,19 +24,21 @@ class Hero extends React.Component {
               <div className="col px-0">
                 <Row className="align-items-center justify-content-center">
                   <Col className="text-center" lg="6">
-                    <img
+                    {/* <img
                       alt="..."
                       className="img-fluid"
                       src={require("assets/img/brand/argon-react-white.png")}
                       // src={require("assets/img/brand/apple-icon.png")}
                       style={{ width: "150px" }}
-                    />
+                    /> */}
+                    <h1 className="text-white">Insure123</h1>
+
                     <p className="lead text-white">
                       Buy Insurance, the smart way.
                     </p>
-                    <h1 className="display-3 text-white">
+                    {/* <h1 className="display-3 text-white">
                       Buy Insurance, the smart way
-                    </h1>
+                    </h1> */}
                   </Col>
                 </Row>
               </div>
