@@ -2,12 +2,10 @@ import React from "react";
 import { Badge, Button, Card, CardBody, Container, Row, Col } from "reactstrap";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
-  faGrinBeam,
   faCheckDouble,
   faStickyNote,
   faHome
 } from "@fortawesome/free-solid-svg-icons";
-import { faStickerMule } from "@fortawesome/free-brands-svg-icons";
 
 const CardsSection = () => {
   return (

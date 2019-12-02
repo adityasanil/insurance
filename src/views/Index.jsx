@@ -16,7 +16,7 @@ import React from "react";
 // core components
 import DemoNavbar from "../components/Navbars/DemoNavbar";
 import CardsFooter from "../components/Footers/SimpleFooter";
-import Hero from "../views/IndexSections/Hero";
+import Hero from "../components/Hero";
 // import Cards from "../views/IndexSections/Cards";
 import WorkFromHome from "components/workFromHome";
 import WhatsappBar from "components/whatsappBar";

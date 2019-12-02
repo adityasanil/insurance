@@ -50,7 +50,7 @@ class DemoNavbar extends React.Component {
                   alt="..."
                   src={require("assets/img/brand/argon-react-white.png")}
                 /> */}
-                <h4 className="text-white mt-1">Insure123</h4>
+                <h5 className="text-white mt-1">ValueUmbrella</h5>
               </NavbarBrand>
               <button className="navbar-toggler" id="navbar_global">
                 <span className="navbar-toggler-icon" />
@@ -64,7 +64,7 @@ class DemoNavbar extends React.Component {
                           alt="..."
                           src={require("assets/img/brand/argon-react.png")}
                         /> */}
-                        <h4 className="text-white mt-1">Insure123</h4>
+                        <h4 className="text-white mt-1">ValueUmbrella</h4>
                       </Link>
                     </Col>
                     <Col className="collapse-close" xs="6">
@@ -177,23 +177,22 @@ class DemoNavbar extends React.Component {
                     </DropdownToggle>
                     <DropdownMenu>
                       <DropdownItem to="/landing-page" tag={Link}>
-                        Landing
+                        Equity Mutual Funds
                       </DropdownItem>
                       <DropdownItem to="/profile-page" tag={Link}>
-                        Profile
+                        Debt Mutual Funds
                       </DropdownItem>
                       <DropdownItem to="/login-page" tag={Link}>
-                        Login
-                      </DropdownItem>
-                      <DropdownItem to="/register-page" tag={Link}>
-                        Register
+                        Balanced Funds
                       </DropdownItem>
                     </DropdownMenu>
                   </UncontrolledDropdown>
                   <UncontrolledDropdown nav>
                     <DropdownToggle nav>
                       <i className="ni ni-collection d-lg-none mr-1" />
-                      <span className="nav-link-inner--text">Renewals</span>
+                      <span className="nav-link-inner--text">
+                        Fixed Deposits
+                      </span>
                     </DropdownToggle>
                     <DropdownMenu>
                       <DropdownItem to="/landing-page" tag={Link}>
@@ -213,20 +212,20 @@ class DemoNavbar extends React.Component {
                   <UncontrolledDropdown nav>
                     <DropdownToggle nav>
                       <i className="ni ni-collection d-lg-none mr-1" />
-                      <span className="nav-link-inner--text">Switch</span>
+                      <span className="nav-link-inner--text">Bonds</span>
                     </DropdownToggle>
                     <DropdownMenu>
                       <DropdownItem to="/landing-page" tag={Link}>
-                        Landing
+                        Corporate Bonds
                       </DropdownItem>
                       <DropdownItem to="/profile-page" tag={Link}>
-                        Profile
+                        Tax Saving Bonds
                       </DropdownItem>
                       <DropdownItem to="/login-page" tag={Link}>
-                        Login
+                        Tax Free Bonds
                       </DropdownItem>
                       <DropdownItem to="/register-page" tag={Link}>
-                        Register
+                        RBI Bonds
                       </DropdownItem>
                     </DropdownMenu>
                   </UncontrolledDropdown>

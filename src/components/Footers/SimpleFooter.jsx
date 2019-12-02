@@ -88,16 +88,16 @@ class SimpleFooter extends React.Component {
                 <div className=" copyright">
                   © {new Date().getFullYear()}{" "}
                   <a href={null} target="_blank">
-                    Argon
+                    ValueUmbrella
                   </a>
                   .
                 </div>
               </Col>
-              <Col md="6">
+              {/* <Col md="6">
                 <Nav className=" nav-footer justify-content-end">
                   <NavItem>
                     <NavLink href={null} target="_blank">
-                      Argon
+                      ValueUmbrella
                     </NavLink>
                   </NavItem>
                   <NavItem>
@@ -116,7 +116,7 @@ class SimpleFooter extends React.Component {
                     </NavLink>
                   </NavItem>
                 </Nav>
-              </Col>
+              </Col> */}
             </Row>
           </Container>
         </footer>

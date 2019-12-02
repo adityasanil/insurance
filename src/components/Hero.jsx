@@ -31,7 +31,7 @@ class Hero extends React.Component {
                       // src={require("assets/img/brand/apple-icon.png")}
                       style={{ width: "150px" }}
                     /> */}
-                    <h1 className="text-white">Insure123</h1>
+                    <h1 className="text-white">ValueUmbrella</h1>
 
                     <p className="lead text-white">
                       Buy Insurance, the smart way.

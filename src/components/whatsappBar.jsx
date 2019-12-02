@@ -19,9 +19,11 @@ const WhatsappBar = () => {
                 <h3 className="display-5 text-white">
                   For all insurance needs; connect on
                   <a
-                    href="//api.whatsapp.com/send?phone=918169848105&text=I'm interested"
+                    href="//api.whatsapp.com/send?phone=917059010203&text=I'm interested"
                     title="Connect on whatsapp"
                     className="pl-2 text-white"
+                    target="_blank"
+                    rel="noopener noreferrer"
                   >
                     <u>+91-7059010203</u>
                   </a>

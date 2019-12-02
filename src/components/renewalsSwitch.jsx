@@ -18,6 +18,8 @@ const RenewalsSwitch = () => {
                   href="//api.whatsapp.com/send?phone=918169848105&text=Renewals"
                   title="Connect on whatsapp"
                   className="pl-2"
+                  target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <u>+91-7059010203</u>
                 </a>{" "}
@@ -45,6 +47,8 @@ const RenewalsSwitch = () => {
                   href="//api.whatsapp.com/send?phone=918169848105&text=Switch"
                   title="Connect on whatsapp"
                   className="pl-2"
+                  target="_blank"
+                  rel="noopener noreferrer"
                 >
                   <u>+91-7059010203</u>
                 </a>{" "}

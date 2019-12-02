@@ -76,7 +76,14 @@ const WorkFromHome = () => {
                   color="danger"
                   // onClick={e => e.preventDefault()}
                 >
-                  Apply
+                  <a
+                    href="https://docs.google.com/forms/d/e/1FAIpQLSfe7H8xID0rB3wBdncWbg3l3yoqZVl_AtSh0OzXY87EJ03UZQ/viewform"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: "#fff" }}
+                  >
+                    Apply
+                  </a>
                 </Button>
               </div>
             </div>
