@@ -14,7 +14,7 @@ const RatingsBar = () => {
               <div className="icon icon-lg icon-shape bg-white shadow rounded-circle text-warning">
                 <FontAwesomeIcon icon={faGrinBeam} />
               </div>
-              <h5 className="display-5 text-white mt-2 ml-2">
+              <h5 className="display-5 text-white mt-3 ml-2">
                 Trusted by all for their insurance needs
               </h5>
             </div>

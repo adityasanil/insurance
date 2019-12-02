@@ -176,13 +176,13 @@ class DemoNavbar extends React.Component {
                       <span className="nav-link-inner--text">Mutual Funds</span>
                     </DropdownToggle>
                     <DropdownMenu>
-                      <DropdownItem to="/landing-page" tag={Link}>
+                      <DropdownItem to={null} tag={Link}>
                         Equity Mutual Funds
                       </DropdownItem>
-                      <DropdownItem to="/profile-page" tag={Link}>
+                      <DropdownItem to={null} tag={Link}>
                         Debt Mutual Funds
                       </DropdownItem>
-                      <DropdownItem to="/login-page" tag={Link}>
+                      <DropdownItem to={null} tag={Link}>
                         Balanced Funds
                       </DropdownItem>
                     </DropdownMenu>
@@ -195,16 +195,16 @@ class DemoNavbar extends React.Component {
                       </span>
                     </DropdownToggle>
                     <DropdownMenu>
-                      <DropdownItem to="/landing-page" tag={Link}>
+                      <DropdownItem to={null} tag={Link}>
                         Landing
                       </DropdownItem>
-                      <DropdownItem to="/profile-page" tag={Link}>
+                      <DropdownItem to={null} tag={Link}>
                         Profile
                       </DropdownItem>
-                      <DropdownItem to="/login-page" tag={Link}>
+                      <DropdownItem to={null} tag={Link}>
                         Login
                       </DropdownItem>
-                      <DropdownItem to="/register-page" tag={Link}>
+                      <DropdownItem to={null} tag={Link}>
                         Register
                       </DropdownItem>
                     </DropdownMenu>
@@ -215,16 +215,16 @@ class DemoNavbar extends React.Component {
                       <span className="nav-link-inner--text">Bonds</span>
                     </DropdownToggle>
                     <DropdownMenu>
-                      <DropdownItem to="/landing-page" tag={Link}>
+                      <DropdownItem to={null} tag={Link}>
                         Corporate Bonds
                       </DropdownItem>
-                      <DropdownItem to="/profile-page" tag={Link}>
+                      <DropdownItem to={null} tag={Link}>
                         Tax Saving Bonds
                       </DropdownItem>
-                      <DropdownItem to="/login-page" tag={Link}>
+                      <DropdownItem to={null} tag={Link}>
                         Tax Free Bonds
                       </DropdownItem>
-                      <DropdownItem to="/register-page" tag={Link}>
+                      <DropdownItem to={null} tag={Link}>
                         RBI Bonds
                       </DropdownItem>
                     </DropdownMenu>
@@ -235,16 +235,16 @@ class DemoNavbar extends React.Component {
                       <span className="nav-link-inner--text">Partner</span>
                     </DropdownToggle>
                     <DropdownMenu>
-                      <DropdownItem to="/landing-page" tag={Link}>
+                      <DropdownItem to={null} tag={Link}>
                         Landing
                       </DropdownItem>
-                      <DropdownItem to="/profile-page" tag={Link}>
+                      <DropdownItem to={null} tag={Link}>
                         Profile
                       </DropdownItem>
-                      <DropdownItem to="/login-page" tag={Link}>
+                      <DropdownItem to={null} tag={Link}>
                         Login
                       </DropdownItem>
-                      <DropdownItem to="/register-page" tag={Link}>
+                      <DropdownItem to={null} tag={Link}>
                         Register
                       </DropdownItem>
                     </DropdownMenu>
